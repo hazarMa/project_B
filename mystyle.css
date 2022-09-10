@@ -1,0 +1,90 @@
+.navbar-brand{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    padding: 12px;
+    padding-right: 330px;
+}
+
+.p1{
+    text-transform: uppercase;
+    letter-spacing: 10px;
+}
+
+.collapse{
+    padding-left: 350px;
+    font-size: 18px;
+}
+
+.d-block{ 
+    width: 640px;
+    height: 560px; 
+    }
+
+.div1{
+    height: 50px;
+    background-color: #f0f1f5;
+    margin-top: 100px;
+}
+
+.card1{
+    padding-left: 35px;
+}
+
+.btn{
+    background-color:  #e6e9f0;
+    border: none;
+    color: black;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.card-img-top{
+    height: 250px;
+}
+
+.card1{
+   display:inline-block;
+   height: 40px;
+   margin: 20px;
+}
+
+.div2{
+    text-transform: capitalize;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: #f0f1f5;
+}
+
+.p2{
+    text-align: center;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+    word-spacing: 10px;
+}
+
+.img1{
+    height: 550px;
+}
+
+.img2{
+    height: 850px;
+
+}
+
+.Login{
+    height: 150px;
+    background-color: #f0f1f5;
+}
+
+
+.btn2{
+    
+    border: none;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    margin-left: 1200px;
+    margin-top: 20px;
+}
